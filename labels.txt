@@ -1,0 +1,3 @@
+0 sedan
+1 hatch
+2 picape
